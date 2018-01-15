@@ -7,6 +7,7 @@ block1-begin
 	try rebase
 	try rebase #2
 
+	try rebase #3
 
 block1-end
 
