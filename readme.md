@@ -2,6 +2,8 @@ block1-begin
 
 	Test fork update repo
 	Test new email in git config
+	Test changes after pull-request
+	Some changes in original repo
 
 
 block1-end
