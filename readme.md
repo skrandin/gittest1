@@ -10,6 +10,7 @@ block1-end
 block2-begin
 
 	Test outgoing pull-request
+	Test ssh connection
 
 
 block3-end
