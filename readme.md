@@ -4,6 +4,7 @@ block1-begin
 	Test new email in git config
 	Test changes after pull-request
 	Some changes in original repo
+	try rebase
 
 
 block1-end
