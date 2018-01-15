@@ -5,6 +5,7 @@ block1-begin
 	Test changes after pull-request
 	Some changes in original repo
 	try rebase
+	try rebase #2
 
 
 block1-end
