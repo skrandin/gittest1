@@ -19,4 +19,6 @@ block2-begin
 	Test ssh connection #2
 	Test SourceTree
 
+	Test pagent
+
 block3-end
